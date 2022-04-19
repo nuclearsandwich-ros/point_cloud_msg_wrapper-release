@@ -1,1 +1,1 @@
-{"base": "9eb2612", "parent": "debian/rolling/point_cloud_msg_wrapper", "previous": "97060b2", "trim": "", "trimbase": ""}
+{"base": "d76d6f4", "parent": "debian/humble/point_cloud_msg_wrapper", "previous": "9870e8c", "trim": "", "trimbase": ""}
